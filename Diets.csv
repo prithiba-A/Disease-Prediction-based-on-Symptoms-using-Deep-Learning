@@ -1,0 +1,986 @@
+Disease,Diet
+AIDS,High-Protein Diet
+AIDS,Vitamin-rich Foods
+AIDS,Omega-3 Fatty Acids
+AIDS,Antioxidant Foods
+AIDS,Hydration
+ALS (Amyotrophic Lateral Sclerosis),Soft Foods
+ALS (Amyotrophic Lateral Sclerosis),High-Calorie Diet
+ALS (Amyotrophic Lateral Sclerosis),Omega-3 Fatty Acids
+ALS (Amyotrophic Lateral Sclerosis),B Vitamins
+ALS (Amyotrophic Lateral Sclerosis),Hydration
+Acne,Low-Glycemic Diet
+Acne,Zinc-Rich Foods
+Acne,Probiotic Foods
+Acne,Vitamin A & E
+Acne,Hydrating Foods
+Achalasia ,Soft Diet
+Achalasia ,Small Frequent Meals
+Achalasia ,Avoid Acidic Foods
+Achalasia ,Hydration
+Achalasia ,Fiber-Rich Foods
+Acute Bronchitis,Warm Fluids
+Acute Bronchitis,Vitamin C Foods
+Acute Bronchitis,Honey & Ginger
+Acute Bronchitis,Anti-Inflammatory Diet
+Acute Bronchitis,Hydration
+Addison's Disease,Sodium-Rich Foods
+Addison's Disease,Balanced Electrolytes
+Addison's Disease,Lean Proteins
+Addison's Disease,Whole Grains
+Addison's Disease,Vitamin B & C Foods
+Alcoholic hepatitis,Liver Detox Diet
+Alcoholic hepatitis,Low-Fat Foods
+Alcoholic hepatitis,Protein-Rich Meals
+Alcoholic hepatitis,Hydrating Drinks
+Alcoholic hepatitis,Antioxidant Foods
+Allergy,Anti-Inflammatory Diet
+Allergy,Vitamin C & D
+Allergy,Quercetin-Rich Foods
+Allergy,Omega-3 Fatty Acids
+Allergy,Probiotics
+Alzheimer's Disease,Mediterranean Diet
+Alzheimer's Disease,Leafy Greens
+Alzheimer's Disease,Berries & Nuts
+Alzheimer's Disease,Fatty Fish
+Alzheimer's Disease,Whole Grains
+Amebiasis,Hydration Therapy
+Amebiasis,Electrolyte-Rich Foods
+Amebiasis,Bananas & Rice
+Amebiasis,Lean Proteins
+Amebiasis,Probiotic Yogurt
+Anemia,Iron-Rich Foods
+Anemia,Leafy Greens
+Anemia,Vitamin C for Iron Absorption
+Anemia,Lean Red Meat
+Anemia,Lentils & Beans
+Aneurysm,Heart-Healthy Diet
+Aneurysm,Omega-3 Fatty Acids
+Aneurysm,Low-Sodium Meals
+Aneurysm,Fruits & Vegetables
+Aneurysm,Whole Grains
+Anthrax,Immune-Boosting Diet
+Anthrax,Hydrating Fluids
+Anthrax,Vitamin C & Zinc
+Anthrax,Lean Proteins
+Anthrax,Anti-Inflammatory Foods
+Aplastic Anemia,Folate-Rich Foods
+Aplastic Anemia,Iron-Rich Meals
+Aplastic Anemia,Vitamin B12
+Aplastic Anemia,Probiotics
+Aplastic Anemia,Hydration
+Appendicitis,Liquid Diet
+Appendicitis,Soft Fiber Foods
+Appendicitis,Avoid Spicy Foods
+Appendicitis,Hydration Therapy
+Appendicitis,Lean Proteins
+Arthritis,Anti-Inflammatory Diet
+Arthritis,Omega-3 Fatty Acids
+Arthritis,Turmeric & Ginger
+Arthritis,Whole Grains
+Arthritis,Leafy Greens
+Aspergillosis,Immune-Boosting Diet
+Aspergillosis,Antifungal Foods
+Aspergillosis,Probiotics
+Aspergillosis,Vitamin D & C
+Aspergillosis,Omega-3 Fatty Acids
+Asthma,Anti-Inflammatory Diet
+Asthma,Vitamin D & E
+Asthma,Magnesium-Rich Foods
+Asthma,Fatty Fish
+Asthma,Hydrating Fluids
+Arrhythmia,Heart-Healthy Diet
+Arrhythmia,Potassium & Magnesium-Rich Foods
+Arrhythmia,Low-Sodium Meals
+Arrhythmia,Omega-3 Fatty Acids
+Arrhythmia,Leafy Greens
+Avian Influenza,Immune-Boosting Diet
+Avian Influenza,Vitamin C & Zinc
+Avian Influenza,Warm Fluids
+Avian Influenza,Antiviral Foods
+Avian Influenza,Hydration
+Babesiosis,Iron-Rich Foods
+Babesiosis,Antioxidant-Rich Diet
+Babesiosis,Probiotics
+Babesiosis,Electrolyte Drinks
+Babesiosis,Lean Proteins
+Bacterial Meningitis,Anti-Inflammatory Diet
+Bacterial Meningitis,Immune-Boosting Foods
+Bacterial Meningitis,Hydration Therapy
+Bacterial Meningitis,Omega-3 Fatty Acids
+Bacterial Meningitis,Probiotics
+Bartonellosis,Immune-Boosting Diet
+Bartonellosis,Hydrating Fluids
+Bartonellosis,Probiotics
+Bartonellosis,Lean Proteins
+Bartonellosis,Vitamin C-Rich Foods
+Barrett Esophagus,Low-Acid Diet
+Barrett Esophagus,Fiber-Rich Foods
+Barrett Esophagus,Hydrating Drinks
+Barrett Esophagus,Probiotic Yogurt
+Barrett Esophagus,Lean Proteins
+Bell's Palsy,Vitamin B12-Rich Foods
+Bell's Palsy,Omega-3 Fatty Acids
+Bell's Palsy,Magnesium & Zinc
+Bell's Palsy,Antioxidant Foods
+Bell's Palsy,Probiotics
+Benign Paroxysmal Positional Vertigo (BPPV),Hydrating Foods
+Benign Paroxysmal Positional Vertigo (BPPV),Electrolyte Drinks
+Benign Paroxysmal Positional Vertigo (BPPV),Vitamin D & Magnesium
+Benign Paroxysmal Positional Vertigo (BPPV),Low-Sodium Meals
+Benign Paroxysmal Positional Vertigo (BPPV),Omega-3 Fatty Acids
+Bipolar Disorder,Omega-3 Fatty Acids
+Bipolar Disorder,Magnesium-Rich Foods
+Bipolar Disorder,Probiotics
+Bipolar Disorder,Whole Grains
+Bipolar Disorder,Balanced Diet
+Bladder Cancer,Antioxidant-Rich Foods
+Bladder Cancer,Cranberry Juice
+Bladder Cancer,Hydrating Fluids
+Bladder Cancer,Leafy Greens
+Bladder Cancer,Low-Sodium Meals
+Blastomycosis,Immune-Boosting Diet
+Blastomycosis,Antifungal Foods
+Blastomycosis,Probiotics
+Blastomycosis,Vitamin D & C
+Blastomycosis,Hydration Therapy
+Brain Tumor,Ketogenic Diet
+Brain Tumor,Antioxidant Foods
+Brain Tumor,Omega-3 Fatty Acids
+Brain Tumor,Vitamin D & Magnesium
+Brain Tumor,Hydration
+Breast Cancer,Antioxidant-Rich Diet
+Breast Cancer,Low-Fat Diet
+Breast Cancer,Cruciferous Vegetables
+Breast Cancer,Soy-Based Foods
+Breast Cancer,Whole Grains
+Bronchial Asthma,Anti-Inflammatory Diet
+Bronchial Asthma,Vitamin C & D
+Bronchial Asthma,Magnesium-Rich Foods
+Bronchial Asthma,Fatty Fish
+Bronchial Asthma,Hydrating Fluids
+Bronchiectasis,Vitamin D & C
+Bronchiectasis,Hydration Therapy
+Bronchiectasis,Anti-Inflammatory Foods
+Bronchiectasis,Omega-3 Fatty Acids
+Bronchiectasis,Probiotics
+Bronchitis,Warm Fluids
+Bronchitis,Vitamin C Foods
+Bronchitis,Honey & Ginger
+Bronchitis,Anti-Inflammatory Diet
+Bronchitis,Hydration
+Brucellosis,Immune-Boosting Diet
+Brucellosis,Vitamin C & Zinc
+Brucellosis,Probiotics
+Brucellosis,Lean Proteins
+Brucellosis,Hydration Therapy
+COVID-19,Immune-Boosting Diet
+COVID-19,Vitamin C & Zinc
+COVID-19,Hydration Therapy
+COVID-19,Probiotics
+COVID-19,Antioxidant Foods
+Campylobacteriosis,Gut-Healing Diet
+Campylobacteriosis,Electrolyte Drinks
+Campylobacteriosis,Bananas & Rice
+Campylobacteriosis,Lean Proteins
+Campylobacteriosis,Probiotic Yogurt
+Cataracts,Vitamin A & C-Rich Foods
+Cataracts,Leafy Greens
+Cataracts,Omega-3 Fatty Acids
+Cataracts,Hydrating Fluids
+Cataracts,Antioxidant Foods
+Celiac Disease,Gluten-Free Diet
+Celiac Disease,High-Fiber Foods
+Celiac Disease,Probiotic Yogurt
+Celiac Disease,Leafy Greens
+Celiac Disease,Omega-3 Fatty Acids
+Cervical Cancer,Antioxidant-Rich Diet
+Cervical Cancer,Cruciferous Vegetables
+Cervical Cancer,Vitamin C & E
+Cervical Cancer,Leafy Greens
+Cervical Cancer,Whole Grains
+Cervical spondylosis,Calcium & Vitamin D-Rich Foods
+Cervical spondylosis,Anti-Inflammatory Diet
+Cervical spondylosis,Omega-3 Fatty Acids
+Cervical spondylosis,Hydrating Fluids
+Cervical spondylosis,Magnesium Foods
+Chikungunya,Hydrating Foods
+Chikungunya,Anti-Inflammatory Diet
+Chikungunya,Vitamin C & Zinc
+Chikungunya,Electrolyte Drinks
+Chikungunya,Probiotics
+Chicken pox,Vitamin C & Zinc-Rich Foods
+Chicken pox,Antiviral Diet
+Chicken pox,Probiotics
+Chicken pox,Hydration Therapy
+Chicken pox,Antioxidants
+Chlamydia,Immune-Boosting Diet
+Chlamydia,Vitamin C & Zinc
+Chlamydia,Hydration Therapy
+Chlamydia,Probiotics
+Chlamydia,Antioxidant Foods
+Cholera,Hydration Therapy
+Cholera,Electrolyte Drinks
+Cholera,Bananas & Rice
+Cholera,Lean Proteins
+Cholera,Probiotic Yogurt
+Chronic Fatigue Syndrome,Iron-Rich Diet
+Chronic Fatigue Syndrome,Omega-3 Fatty Acids
+Chronic Fatigue Syndrome,Probiotics
+Chronic Fatigue Syndrome,Vitamin B12 & Magnesium
+Chronic Fatigue Syndrome,Hydration
+Chronic Kidney Disease,Low-Protein Diet
+Chronic Kidney Disease,Low-Potassium Foods
+Chronic Kidney Disease,Hydrating Fluids
+Chronic Kidney Disease,Calcium & Vitamin D
+Chronic Kidney Disease,Whole Grains
+Chronic Sinusitis,Vitamin C & D-Rich Foods
+Chronic Sinusitis,Hydrating Fluids
+Chronic Sinusitis,Anti-Inflammatory Diet
+Chronic Sinusitis,Probiotics
+Chronic Sinusitis,Omega-3 Fatty Acids
+Chronic cholestasis,Liver Detox Diet
+Chronic cholestasis,Hydrating Drinks
+Chronic cholestasis,High-Fiber Foods
+Chronic cholestasis,Low-Fat Diet
+Chronic cholestasis,Vitamin K-Rich Foods
+Coccidioidomycosis,Immune-Boosting Diet
+Coccidioidomycosis,Vitamin C & Zinc
+Coccidioidomycosis,Probiotic Yogurt
+Coccidioidomycosis,Hydration Therapy
+Coccidioidomycosis,Leafy Greens
+Colon Cancer,High-Fiber Diet
+Colon Cancer,Cruciferous Vegetables
+Colon Cancer,Antioxidant-Rich Foods
+Colon Cancer,Whole Grains
+Colon Cancer,Omega-3 Fatty Acids
+Common Cold,Vitamin C & Zinc-Rich Foods
+Common Cold,Warm Fluids
+Common Cold,Honey & Ginger
+Common Cold,Probiotics
+Common Cold,Hydrating Foods
+Crohn's Disease,Low-Fiber Diet
+Crohn's Disease,Omega-3 Fatty Acids
+Crohn's Disease,Probiotic Foods
+Crohn's Disease,Hydration Therapy
+Crohn's Disease,Anti-Inflammatory Diet
+Cryptococcosis,Immune-Boosting Diet
+Cryptococcosis,Antifungal Foods
+Cryptococcosis,Vitamin D & C
+Cryptococcosis,Probiotics
+Cryptococcosis,Hydration Therapy
+Cushing's Syndrome,Low-Sodium Diet
+Cushing's Syndrome,Calcium & Vitamin D
+Cushing's Syndrome,Lean Proteins
+Cushing's Syndrome,High-Fiber Foods
+Cushing's Syndrome,Whole Grains
+Cystic Fibrosis,High-Calorie Diet
+Cystic Fibrosis,Healthy Fats
+Cystic Fibrosis,Protein-Rich Foods
+Cystic Fibrosis,"Vitamin A, D, E, K"
+Cystic Fibrosis,Hydrating Foods
+Deep Vein Thrombosis (DVT),Heart-Healthy Diet
+Deep Vein Thrombosis (DVT),Omega-3 Fatty Acids
+Deep Vein Thrombosis (DVT),Low-Sodium Foods
+Deep Vein Thrombosis (DVT),Leafy Greens
+Deep Vein Thrombosis (DVT),Whole Grains
+Dengue Fever,Hydration Therapy
+Dengue Fever,Electrolyte Drinks
+Dengue Fever,Vitamin C & Zinc
+Dengue Fever,Papaya Leaf Extract
+Dengue Fever,Lean Proteins
+Dermatitis,Skin-Healthy Diet
+Dermatitis,Omega-3 Fatty Acids
+Dermatitis,Probiotics
+Dermatitis,Vitamin A & E-Rich Foods
+Dermatitis,Hydrating Fluids
+Diabetes,Low-Glycemic Diet
+Diabetes,Whole Grains
+Diabetes,Lean Proteins
+Diabetes,Healthy Fats
+Diabetes,High-Fiber Foods
+Dimorphic hemmorhoids(piles),High-Fiber Diet
+Dimorphic hemmorhoids(piles),Hydration Therapy
+Dimorphic hemmorhoids(piles),Leafy Greens
+Dimorphic hemmorhoids(piles),Whole Grains
+Dimorphic hemmorhoids(piles),Anti-Inflammatory Foods
+Diphtheria,Soft Foods
+Diphtheria,Vitamin C & Zinc
+Diphtheria,Hydrating Fluids
+Diphtheria,Immune-Boosting Diet
+Diphtheria,Antioxidant-Rich Foods
+Diverticulitis,Low-Fiber Diet (during flare-ups)
+Diverticulitis,Hydration Therapy
+Diverticulitis,Probiotics
+Diverticulitis,"Soft, Cooked Vegetables"
+Diverticulitis,Lean Proteins
+Drug Reaction,Detox Diet
+Drug Reaction,Hydration Therapy
+Drug Reaction,Antioxidant Foods
+Drug Reaction,Vitamin C & Zinc
+Drug Reaction,Probiotic Yogurt
+E. Coli Infection,Hydration Therapy
+E. Coli Infection,Probiotic Yogurt
+E. Coli Infection,Electrolyte Drinks
+E. Coli Infection,Lean Proteins
+E. Coli Infection,Bananas & Rice
+Ebola,Immune-Boosting Diet
+Ebola,Hydration Therapy
+Ebola,Antioxidant Foods
+Ebola,Vitamin C & Zinc
+Ebola,High-Calorie Diet
+Eczema,Omega-3 Fatty Acids
+Eczema,Probiotic-Rich Foods
+Eczema,Vitamin A & E
+Eczema,Hydration Therapy
+Eczema,Antioxidant Foods
+Ehlers-Danlos Syndrome,Collagen-Boosting Foods
+Ehlers-Danlos Syndrome,Vitamin C & Zinc
+Ehlers-Danlos Syndrome,Protein-Rich Diet
+Ehlers-Danlos Syndrome,Hydrating Fluids
+Ehlers-Danlos Syndrome,Magnesium Foods
+Endometriosis,Anti-Inflammatory Diet
+Endometriosis,Omega-3 Fatty Acids
+Endometriosis,Leafy Greens
+Endometriosis,Probiotic Foods
+Endometriosis,Whole Grains
+Epilepsy,Ketogenic Diet
+Epilepsy,Magnesium-Rich Foods
+Epilepsy,Omega-3 Fatty Acids
+Epilepsy,Leafy Greens
+Epilepsy,Vitamin B6 Foods
+Erectile Dysfunction,Heart-Healthy Diet
+Erectile Dysfunction,Nitric Oxide-Boosting Foods
+Erectile Dysfunction,Omega-3 Fatty Acids
+Erectile Dysfunction,Leafy Greens
+Erectile Dysfunction,Dark Chocolate
+Esophageal Cancer,Soft Foods
+Esophageal Cancer,Hydration Therapy
+Esophageal Cancer,High-Protein Diet
+Esophageal Cancer,Omega-3 Fatty Acids
+Esophageal Cancer,Probiotic Foods
+Fatty Liver Disease,Low-Carb Diet
+Fatty Liver Disease,Healthy Fats
+Fatty Liver Disease,Leafy Greens
+Fatty Liver Disease,Omega-3 Fatty Acids
+Fatty Liver Disease,Antioxidant Foods
+Fibromyalgia,Anti-Inflammatory Diet
+Fibromyalgia,Omega-3 Fatty Acids
+Fibromyalgia,Magnesium-Rich Foods
+Fibromyalgia,Vitamin D & C
+Fibromyalgia,Leafy Greens
+Filariasis,Immune-Boosting Diet
+Filariasis,Vitamin C & Zinc
+Filariasis,Hydration Therapy
+Filariasis,Probiotics
+Filariasis,Anti-Inflammatory Foods
+Fungal Infection,Antifungal Diet
+Fungal Infection,Probiotics
+Fungal Infection,Garlic & Ginger
+Fungal Infection,Omega-3 Fatty Acids
+Fungal Infection,Vitamin C & Zinc
+GERD,Low-Acid Diet
+GERD,High-Fiber Foods
+GERD,Hydrating Fluids
+GERD,Probiotics
+GERD,Lean Proteins
+Gallbladder Disease,Low-Fat Diet
+Gallbladder Disease,Hydrating Drinks
+Gallbladder Disease,Fiber-Rich Foods
+Gallbladder Disease,Leafy Greens
+Gallbladder Disease,Omega-3 Fatty Acids
+Gallstones,Low-Fat Diet
+Gallstones,High-Fiber Foods
+Gallstones,Omega-3 Fatty Acids
+Gallstones,Hydrating Fluids
+Gallstones,Whole Grains
+Gastric Cancer,Soft Foods
+Gastric Cancer,Hydration Therapy
+Gastric Cancer,Lean Proteins
+Gastric Cancer,Probiotic-Rich Foods
+Gastric Cancer,Antioxidant Foods
+Gastritis,Low-Acid Diet
+Gastritis,Hydrating Fluids
+Gastritis,Probiotic Foods
+Gastritis,Lean Proteins
+Gastritis,High-Fiber Foods
+Gastroenteritis,Hydration Therapy
+Gastroenteritis,Probiotic Yogurt
+Gastroenteritis,Electrolyte Drinks
+Gastroenteritis,Bananas & Rice
+Gastroenteritis,Lean Proteins
+Giardiasis,Gut-Healing Diet
+Giardiasis,Hydration Therapy
+Giardiasis,Probiotic-Rich Foods
+Giardiasis,Electrolyte Drinks
+Giardiasis,Leafy Greens
+Glaucoma,Eye-Healthy Diet
+Glaucoma,Leafy Greens
+Glaucoma,Omega-3 Fatty Acids
+Glaucoma,Hydration Therapy
+Glaucoma,Antioxidant Foods
+Gonorrhea,Immune-Boosting Diet
+Gonorrhea,Vitamin C & Zinc
+Gonorrhea,Probiotic Yogurt
+Gonorrhea,Omega-3 Fatty Acids
+Gonorrhea,Hydrating Fluids
+Gout,Low-Purine Diet
+Gout,Hydration Therapy
+Gout,Leafy Greens
+Gout,Whole Grains
+Gout,Vitamin C Foods
+Graves' Disease,Anti-Inflammatory Diet
+Graves' Disease,Omega-3 Fatty Acids
+Graves' Disease,Vitamin D & Magnesium
+Graves' Disease,Leafy Greens
+Graves' Disease,Probiotic Foods
+Guillain Barre Syndrome,High-Protein Diet
+Guillain Barre Syndrome,Vitamin B12-Rich Foods
+Guillain Barre Syndrome,Omega-3 Fatty Acids
+Guillain Barre Syndrome,Leafy Greens
+Guillain Barre Syndrome,Hydration Therapy
+HIV/AIDS,Immune-Boosting Diet
+HIV/AIDS,High-Protein Meals
+HIV/AIDS,Vitamin C & Zinc
+HIV/AIDS,Antioxidant Foods
+HIV/AIDS,Hydration Therapy
+Hantavirus,Immune-Boosting Diet
+Hantavirus,Hydration Therapy
+Hantavirus,Probiotics
+Hantavirus,Vitamin C & Zinc
+Hantavirus,High-Calorie Diet
+Heart attack,Heart-Healthy Diet
+Heart attack,Omega-3 Fatty Acids
+Heart attack,Low-Sodium Meals
+Heart attack,Leafy Greens
+Heart attack,Whole Grains
+Hemochromatosis,Low-Iron Diet
+Hemochromatosis,High-Calcium Foods
+Hemochromatosis,Whole Grains
+Hemochromatosis,Leafy Greens
+Hemochromatosis,Hydration Therapy
+Hemophilia,Vitamin K & Iron-Rich Foods
+Hemophilia,Hydrating Fluids
+Hemophilia,Whole Grains
+Hemophilia,Leafy Greens
+Hemophilia,Omega-3 Fatty Acids
+Hendra Virus,Immune-Boosting Diet
+Hendra Virus,Vitamin C & Zinc
+Hendra Virus,Probiotic Yogurt
+Hendra Virus,Hydration Therapy
+Hendra Virus,High-Protein Foods
+Hepatitis A,Liver Detox Diet
+Hepatitis A,Hydration Therapy
+Hepatitis A,Leafy Greens
+Hepatitis A,Probiotics
+Hepatitis A,Vitamin C & B12
+Hepatitis B,Low-Fat Diet
+Hepatitis B,High-Fiber Foods
+Hepatitis B,Omega-3 Fatty Acids
+Hepatitis B,Hydrating Fluids
+Hepatitis B,Whole Grains
+Hepatitis C,Liver Detox Diet
+Hepatitis C,Healthy Fats
+Hepatitis C,Lean Proteins
+Hepatitis C,Leafy Greens
+Hepatitis C,Omega-3 Fatty Acids
+Hepatitis D,Low-Fat Diet
+Hepatitis D,Vitamin D-Rich Foods
+Hepatitis D,Hydration Therapy
+Hepatitis D,Probiotic Foods
+Hepatitis D,Antioxidants
+Hepatitis E,Liver Detox Diet
+Hepatitis E,Low-Fat Foods
+Hepatitis E,Hydration Therapy
+Hepatitis E,Leafy Greens
+Hepatitis E,Vitamin C-Rich Foods
+Herpes,Immune-Boosting Diet
+Herpes,Lysine-Rich Foods
+Herpes,Vitamin C & Zinc
+Herpes,Hydrating Fluids
+Herpes,Probiotic Foods
+Histoplasmosis,Antifungal Diet
+Histoplasmosis,Immune-Boosting Foods
+Histoplasmosis,Probiotics
+Histoplasmosis,Vitamin D & C
+Histoplasmosis,Omega-3 Fatty Acids
+Hodgkin's Lymphoma,Antioxidant-Rich Diet
+Hodgkin's Lymphoma,High-Protein Meals
+Hodgkin's Lymphoma,Omega-3 Fatty Acids
+Hodgkin's Lymphoma,Hydration Therapy
+Hodgkin's Lymphoma,Probiotics
+Hookworm Infection,Iron-Rich Foods
+Hookworm Infection,High-Fiber Diet
+Hookworm Infection,Vitamin B12 & C
+Hookworm Infection,Probiotics
+Hookworm Infection,Hydrating Foods
+Huntington's Disease,High-Calorie Diet
+Huntington's Disease,Healthy Fats
+Huntington's Disease,Lean Proteins
+Huntington's Disease,Vitamin B & E
+Huntington's Disease,Hydrating Fluids
+Hyperglycemia,Low-Glycemic Diet
+Hyperglycemia,Whole Grains
+Hyperglycemia,Leafy Greens
+Hyperglycemia,Healthy Fats
+Hyperglycemia,High-Fiber Foods
+Hypertension,Heart-Healthy Diet
+Hypertension,Low-Sodium Meals
+Hypertension,Omega-3 Fatty Acids
+Hypertension,Leafy Greens
+Hypertension,Whole Grains
+Hyperthyroidism,Anti-Inflammatory Diet
+Hyperthyroidism,Cruciferous Vegetables
+Hyperthyroidism,Magnesium-Rich Foods
+Hyperthyroidism,Omega-3 Fatty Acids
+Hyperthyroidism,Hydrating Fluids
+Impetigo,Skin-Healing Diet
+Impetigo,Probiotics
+Impetigo,Vitamin C & Zinc
+Impetigo,Hydration Therapy
+Impetigo,Antioxidant Foods
+Influenza,Immune-Boosting Diet
+Influenza,Vitamin C & Zinc
+Influenza,Warm Fluids
+Influenza,Probiotic Yogurt
+Influenza,Hydrating Foods
+Insomnia,Melatonin-Rich Foods
+Insomnia,Magnesium & Zinc
+Insomnia,Herbal Teas
+Insomnia,Whole Grains
+Insomnia,Tryptophan-Rich Foods
+Irritable Bowel Syndrome (IBS),Low-FODMAP Diet
+Irritable Bowel Syndrome (IBS),Probiotic Foods
+Irritable Bowel Syndrome (IBS),Hydration Therapy
+Irritable Bowel Syndrome (IBS),Soluble Fiber
+Irritable Bowel Syndrome (IBS),Anti-Inflammatory Foods
+Jaundice,Liver Detox Diet
+Jaundice,Hydration Therapy
+Jaundice,Leafy Greens
+Jaundice,Probiotics
+Jaundice,Vitamin C & B12
+Kidney Stones,Low-Oxalate Diet
+Kidney Stones,Hydration Therapy
+Kidney Stones,Calcium-Rich Foods
+Kidney Stones,Citrus Fruits
+Kidney Stones,Whole Grains
+Legionnaires' Disease,Immune-Boosting Diet
+Legionnaires' Disease,Vitamin C & Zinc
+Legionnaires' Disease,Hydration Therapy
+Legionnaires' Disease,Warm Fluids
+Legionnaires' Disease,Omega-3 Fatty Acids
+Leptospirosis,Electrolyte Drinks
+Leptospirosis,Probiotic Yogurt
+Leptospirosis,Leafy Greens
+Leptospirosis,Hydration Therapy
+Leptospirosis,High-Protein Foods
+Leukemia,Antioxidant-Rich Diet
+Leukemia,High-Protein Meals
+Leukemia,Omega-3 Fatty Acids
+Leukemia,Hydration Therapy
+Leukemia,Vitamin D & C
+Lice Infestation,Iron-Rich Foods
+Lice Infestation,Omega-3 Fatty Acids
+Lice Infestation,Probiotics
+Lice Infestation,Hydration Therapy
+Lice Infestation,Vitamin C & E
+Liver Cirrhosis,Liver Detox Diet
+Liver Cirrhosis,Low-Sodium Meals
+Liver Cirrhosis,Protein-Rich Foods
+Liver Cirrhosis,Omega-3 Fatty Acids
+Liver Cirrhosis,Hydration Therapy
+Loiasis,Anti-Inflammatory Diet
+Loiasis,Iron-Rich Foods
+Loiasis,Vitamin C & Zinc
+Loiasis,Leafy Greens
+Loiasis,Hydration Therapy
+Lung Cancer,Antioxidant-Rich Diet
+Lung Cancer,Omega-3 Fatty Acids
+Lung Cancer,Vitamin C & E
+Lung Cancer,Leafy Greens
+Lung Cancer,Hydrating Foods
+Lupus,Anti-Inflammatory Diet
+Lupus,Omega-3 Fatty Acids
+Lupus,Vitamin D & C
+Lupus,Probiotics
+Lupus,Leafy Greens
+Lyme Disease,Immune-Boosting Diet
+Lyme Disease,Vitamin C & Zinc
+Lyme Disease,Omega-3 Fatty Acids
+Lyme Disease,Hydration Therapy
+Lyme Disease,Probiotic Foods
+Lymphoma,High-Protein Diet
+Lymphoma,Antioxidant-Rich Foods
+Lymphoma,Omega-3 Fatty Acids
+Lymphoma,Leafy Greens
+Lymphoma,Hydrating Fluids
+MERS,Immune-Boosting Diet
+MERS,Vitamin C & Zinc
+MERS,Probiotic Yogurt
+MERS,Omega-3 Fatty Acids
+MERS,Hydration Therapy
+Macular Degeneration,Eye-Healthy Diet
+Macular Degeneration,Vitamin A & C
+Macular Degeneration,Leafy Greens
+Macular Degeneration,Omega-3 Fatty Acids
+Macular Degeneration,Antioxidant Foods
+Malaria,High-Calorie Diet
+Malaria,Vitamin C & Zinc
+Malaria,Hydration Therapy
+Malaria,Probiotic Foods
+Malaria,Leafy Greens
+Marburg Virus,Immune-Boosting Diet
+Marburg Virus,High-Calorie Meals
+Marburg Virus,Vitamin C & Zinc
+Marburg Virus,Hydration Therapy
+Marburg Virus,Probiotic Yogurt
+Measles,Vitamin A-Rich Foods
+Measles,Immune-Boosting Diet
+Measles,Hydration Therapy
+Measles,Probiotic Yogurt
+Measles,Antioxidant Foods
+Melanoma,Antioxidant-Rich Diet
+Melanoma,Omega-3 Fatty Acids
+Melanoma,Vitamin C & E
+Melanoma,Leafy Greens
+Melanoma,Hydrating Foods
+Metabolic Syndrome,Low-Glycemic Diet
+Metabolic Syndrome,Omega-3 Fatty Acids
+Metabolic Syndrome,High-Fiber Foods
+Metabolic Syndrome,Leafy Greens
+Metabolic Syndrome,Healthy Fats
+Migraine,Magnesium-Rich Foods
+Migraine,Omega-3 Fatty Acids
+Migraine,Low-Histamine Diet
+Migraine,Hydrating Fluids
+Migraine,Whole Grains
+Multiple Sclerosis,Anti-Inflammatory Diet
+Multiple Sclerosis,Omega-3 Fatty Acids
+Multiple Sclerosis,Vitamin D & C
+Multiple Sclerosis,Probiotics
+Multiple Sclerosis,Leafy Greens
+Mumps,Soft Foods
+Mumps,Vitamin C & Zinc
+Mumps,Hydrating Fluids
+Mumps,Immune-Boosting Diet
+Mumps,Probiotic Yogurt
+Myasthenia Gravis,High-Protein Diet
+Myasthenia Gravis,Magnesium-Rich Foods
+Myasthenia Gravis,Omega-3 Fatty Acids
+Myasthenia Gravis,Vitamin B12
+Myasthenia Gravis,Leafy Greens
+Mycoplasma Pneumonia,Immune-Boosting Diet
+Mycoplasma Pneumonia,Vitamin C & Zinc
+Mycoplasma Pneumonia,Hydration Therapy
+Mycoplasma Pneumonia,Probiotic Yogurt
+Mycoplasma Pneumonia,Warm Fluids
+Narcolepsy,Tryptophan-Rich Foods
+Narcolepsy,Melatonin Foods
+Narcolepsy,Omega-3 Fatty Acids
+Narcolepsy,Whole Grains
+Narcolepsy,Hydrating Fluids
+Nipah Virus,Immune-Boosting Diet
+Nipah Virus,Vitamin C & Zinc
+Nipah Virus,Hydration Therapy
+Nipah Virus,High-Calorie Diet
+Nipah Virus,Probiotic Yogurt
+Norovirus,Hydration Therapy
+Norovirus,Electrolyte Drinks
+Norovirus,Bananas & Rice
+Norovirus,Lean Proteins
+Norovirus,Probiotic Yogurt
+Obesity,Low-Calorie Diet
+Obesity,High-Fiber Foods
+Obesity,Lean Proteins
+Obesity,Healthy Fats
+Obesity,Hydration Therapy
+Onchocerciasis,Anti-Inflammatory Diet
+Onchocerciasis,Vitamin C & Zinc
+Onchocerciasis,Omega-3 Fatty Acids
+Onchocerciasis,Probiotics
+Onchocerciasis,Leafy Greens
+Osteoarthristis,Anti-Inflammatory Diet
+Osteoarthristis,Omega-3 Fatty Acids
+Osteoarthristis,Vitamin D & C
+Osteoarthristis,Leafy Greens
+Osteoarthristis,Probiotics
+Osteoporosis,Calcium & Vitamin D-Rich Foods
+Osteoporosis,Omega-3 Fatty Acids
+Osteoporosis,Leafy Greens
+Osteoporosis,Magnesium Foods
+Osteoporosis,Dairy Products
+Otitis Media,Vitamin C & Zinc
+Otitis Media,Probiotic Yogurt
+Otitis Media,Immune-Boosting Diet
+Otitis Media,Omega-3 Fatty Acids
+Otitis Media,Hydration Therapy
+Ovarian Cancer,Antioxidant-Rich Diet
+Ovarian Cancer,Cruciferous Vegetables
+Ovarian Cancer,Vitamin C & E
+Ovarian Cancer,Lean Proteins
+Ovarian Cancer,Whole Grains
+Pancreatic Cancer,Soft Foods
+Pancreatic Cancer,High-Calorie Diet
+Pancreatic Cancer,Healthy Fats
+Pancreatic Cancer,Probiotic Yogurt
+Pancreatic Cancer,Vitamin C & E
+Paralysis (brain hemorrhage),Brain-Boosting Diet
+Paralysis (brain hemorrhage),Omega-3 Fatty Acids
+Paralysis (brain hemorrhage),Vitamin B12 & C
+Paralysis (brain hemorrhage),Leafy Greens
+Paralysis (brain hemorrhage),Hydrating Fluids
+Parkinson's Disease,Antioxidant-Rich Diet
+Parkinson's Disease,Omega-3 Fatty Acids
+Parkinson's Disease,Vitamin D & C
+Parkinson's Disease,Whole Grains
+Parkinson's Disease,Probiotics
+Pelvic Inflammatory Disease,Anti-Inflammatory Diet
+Pelvic Inflammatory Disease,Vitamin C & Zinc
+Pelvic Inflammatory Disease,Probiotics
+Pelvic Inflammatory Disease,Omega-3 Fatty Acids
+Pelvic Inflammatory Disease,Leafy Greens
+Peptic ulcer disease,Low-Acid Diet
+Peptic ulcer disease,Probiotic Foods
+Peptic ulcer disease,Vitamin A & C
+Peptic ulcer disease,Hydration Therapy
+Peptic ulcer disease,Lean Proteins
+Peripheral Neuropathy,Vitamin B12-Rich Foods
+Peripheral Neuropathy,Magnesium-Rich Diet
+Peripheral Neuropathy,Omega-3 Fatty Acids
+Peripheral Neuropathy,Leafy Greens
+Peripheral Neuropathy,Probiotics
+Plague,Immune-Boosting Diet
+Plague,Vitamin C & Zinc
+Plague,Probiotics
+Plague,Hydration Therapy
+Plague,High-Protein Foods
+Pneumonia,Immune-Boosting Diet
+Pneumonia,Vitamin C & Zinc
+Pneumonia,Warm Fluids
+Pneumonia,Probiotic Yogurt
+Pneumonia,Hydrating Foods
+Polycystic Ovary Syndrome,Low-Glycemic Diet
+Polycystic Ovary Syndrome,Omega-3 Fatty Acids
+Polycystic Ovary Syndrome,High-Fiber Foods
+Polycystic Ovary Syndrome,Leafy Greens
+Polycystic Ovary Syndrome,Healthy Fats
+Pontiac Fever,Hydration Therapy
+Pontiac Fever,Electrolyte Drinks
+Pontiac Fever,Vitamin C & Zinc
+Pontiac Fever,Immune-Boosting Diet
+Pontiac Fever,Probiotic Foods
+Prostate Cancer,Antioxidant-Rich Diet
+Prostate Cancer,Lycopene-Rich Foods
+Prostate Cancer,Omega-3 Fatty Acids
+Prostate Cancer,Whole Grains
+Prostate Cancer,Leafy Greens
+Psittacosis,Immune-Boosting Diet
+Psittacosis,Vitamin C & Zinc
+Psittacosis,Probiotic Yogurt
+Psittacosis,Omega-3 Fatty Acids
+Psittacosis,Hydration Therapy
+Psoriasis,Anti-Inflammatory Diet
+Psoriasis,Omega-3 Fatty Acids
+Psoriasis,Vitamin D & C
+Psoriasis,Leafy Greens
+Psoriasis,Probiotics
+Q Fever,Immune-Boosting Diet
+Q Fever,Vitamin C & Zinc
+Q Fever,Hydration Therapy
+Q Fever,Probiotics
+Q Fever,Antioxidant Foods
+Rabies,Immune-Boosting Diet
+Rabies,Vitamin C & Zinc
+Rabies,High-Protein Foods
+Rabies,Omega-3 Fatty Acids
+Rabies,Hydration Therapy
+Raynaud Disease,Circulation-Boosting Diet
+Raynaud Disease,Omega-3 Fatty Acids
+Raynaud Disease,Magnesium-Rich Foods
+Raynaud Disease,Leafy Greens
+Raynaud Disease,Vitamin B12
+Relapsing Fever,Immune-Boosting Diet
+Relapsing Fever,Vitamin C & Zinc
+Relapsing Fever,Probiotic Yogurt
+Relapsing Fever,Omega-3 Fatty Acids
+Relapsing Fever,Hydration Therapy
+Restless Legs Syndrome,Iron-Rich Foods
+Restless Legs Syndrome,Magnesium & Zinc
+Restless Legs Syndrome,Hydration Therapy
+Restless Legs Syndrome,Omega-3 Fatty Acids
+Restless Legs Syndrome,Leafy Greens
+Retinopathy,Eye-Healthy Diet
+Retinopathy,Vitamin A & C
+Retinopathy,Leafy Greens
+Retinopathy,Omega-3 Fatty Acids
+Retinopathy,Antioxidant Foods
+Rheumatoid Arthritis,Anti-Inflammatory Diet
+Rheumatoid Arthritis,Omega-3 Fatty Acids
+Rheumatoid Arthritis,Vitamin D & C
+Rheumatoid Arthritis,Leafy Greens
+Rheumatoid Arthritis,Probiotics
+Rocky Mountain Spotted Fever,Immune-Boosting Diet
+Rocky Mountain Spotted Fever,Vitamin C & Zinc
+Rocky Mountain Spotted Fever,Hydration Therapy
+Rocky Mountain Spotted Fever,Probiotics
+Rocky Mountain Spotted Fever,Antioxidant Foods
+Rotavirus,Hydration Therapy
+Rotavirus,Electrolyte Drinks
+Rotavirus,Bananas & Rice
+Rotavirus,Lean Proteins
+Rotavirus,Probiotic Yogurt
+Roundworm Infection,Gut-Healing Diet
+Roundworm Infection,Probiotics
+Roundworm Infection,Leafy Greens
+Roundworm Infection,Hydration Therapy
+Roundworm Infection,Vitamin C & Zinc
+Rubella,Vitamin A-Rich Foods
+Rubella,Immune-Boosting Diet
+Rubella,Hydration Therapy
+Rubella,Probiotic Yogurt
+Rubella,Antioxidant Foods
+SARS,Immune-Boosting Diet
+SARS,Vitamin C & Zinc
+SARS,Probiotic Yogurt
+SARS,Omega-3 Fatty Acids
+SARS,Hydration Therapy
+Salmonella Infection,Gut-Healing Diet
+Salmonella Infection,Probiotics
+Salmonella Infection,Electrolyte Drinks
+Salmonella Infection,Bananas & Rice
+Salmonella Infection,Lean Proteins
+Sarcoidosis,Anti-Inflammatory Diet
+Sarcoidosis,Omega-3 Fatty Acids
+Sarcoidosis,Vitamin D & C
+Sarcoidosis,Leafy Greens
+Sarcoidosis,Probiotics
+Scabies,Skin-Healing Diet
+Scabies,Probiotics
+Scabies,Vitamin C & Zinc
+Scabies,Hydration Therapy
+Scabies,Antioxidant Foods
+Schistosomiasis,Immune-Boosting Diet
+Schistosomiasis,Vitamin C & Zinc
+Schistosomiasis,Probiotics
+Schistosomiasis,Hydration Therapy
+Schistosomiasis,High-Protein Foods
+Shigellosis,Gut-Healing Diet
+Shigellosis,Probiotics
+Shigellosis,Electrolyte Drinks
+Shigellosis,Bananas & Rice
+Shigellosis,Lean Proteins
+Sickle Cell Disease,Iron-Rich Foods
+Sickle Cell Disease,High-Fiber Diet
+Sickle Cell Disease,Vitamin B12 & C
+Sickle Cell Disease,Probiotics
+Sickle Cell Disease,Hydrating Foods
+Sinusitis,Vitamin C & D-Rich Foods
+Sinusitis,Hydrating Fluids
+Sinusitis,Anti-Inflammatory Diet
+Sinusitis,Probiotics
+Sinusitis,Omega-3 Fatty Acids
+Sleep Apnea,Weight Management Diet
+Sleep Apnea,Low-Glycemic Foods
+Sleep Apnea,Omega-3 Fatty Acids
+Sleep Apnea,Vitamin D & C
+Sleep Apnea,Probiotics
+Stroke,Brain-Boosting Diet
+Stroke,Omega-3 Fatty Acids
+Stroke,Vitamin B12 & C
+Stroke,Leafy Greens
+Stroke,Hydrating Fluids
+Syphilis,Immune-Boosting Diet
+Syphilis,Vitamin C & Zinc
+Syphilis,Hydration Therapy
+Syphilis,Probiotics
+Syphilis,Antioxidant Foods
+Tapeworm Infection,Gut-Healing Diet
+Tapeworm Infection,Probiotics
+Tapeworm Infection,Leafy Greens
+Tapeworm Infection,Hydration Therapy
+Tapeworm Infection,Vitamin C & Zinc
+Tetanus,Immune-Boosting Diet
+Tetanus,Vitamin C & Zinc
+Tetanus,High-Protein Foods
+Tetanus,Omega-3 Fatty Acids
+Tetanus,Hydration Therapy
+Thalassemia,Iron-Rich Foods
+Thalassemia,High-Fiber Diet
+Thalassemia,Vitamin B12 & C
+Thalassemia,Probiotics
+Thalassemia,Hydrating Foods
+Tinnitus,Anti-Inflammatory Diet
+Tinnitus,Omega-3 Fatty Acids
+Tinnitus,Magnesium & Zinc
+Tinnitus,Leafy Greens
+Tinnitus,Probiotics
+Toxoplasmosis,Immune-Boosting Diet
+Toxoplasmosis,Vitamin C & Zinc
+Toxoplasmosis,Probiotic Yogurt
+Toxoplasmosis,Omega-3 Fatty Acids
+Toxoplasmosis,Hydration Therapy
+Trichinosis,Gut-Healing Diet
+Trichinosis,Probiotics
+Trichinosis,Leafy Greens
+Trichinosis,Hydration Therapy
+Trichinosis,Vitamin C & Zinc
+Tuberculosis,Immune-Boosting Diet
+Tuberculosis,Vitamin C & Zinc
+Tuberculosis,High-Protein Foods
+Tuberculosis,Omega-3 Fatty Acids
+Tuberculosis,Hydration Therapy
+Tularemia,Immune-Boosting Diet
+Tularemia,Vitamin C & Zinc
+Tularemia,Probiotics
+Tularemia,Hydration Therapy
+Tularemia,High-Protein Foods
+Typhoid,Gut-Healing Diet
+Typhoid,Probiotics
+Typhoid,Electrolyte Drinks
+Typhoid,Bananas & Rice
+Typhoid,Lean Proteins
+Ulcerative Colitis,Low-Residue Diet
+Ulcerative Colitis,Probiotics
+Ulcerative Colitis,Omega-3 Fatty Acids
+Ulcerative Colitis,Vitamin D & C
+Ulcerative Colitis,Leafy Greens
+Urinary tract infection,Cranberry Juice
+Urinary tract infection,Probiotic Yogurt
+Urinary tract infection,Hydration Therapy
+Urinary tract infection,Vitamin C-Rich Foods
+Urinary tract infection,Leafy Greens
+Varicose veins,Circulation-Boosting Diet
+Varicose veins,Omega-3 Fatty Acids
+Varicose veins,Leafy Greens
+Varicose veins,Vitamin C & E
+Varicose veins,Whole Grains
+Vertigo,Hydration Therapy
+Vertigo,Low-Sodium Diet
+Vertigo,Vitamin D & Magnesium
+Vertigo,Ginger & Peppermint
+Vertigo,Omega-3 Fatty Acids
+Whooping Cough,Warm Fluids
+Whooping Cough,Vitamin C & Zinc
+Whooping Cough,Probiotic Yogurt
+Whooping Cough,Honey & Ginger
+Whooping Cough,Hydrating Foods
+Wilson Disease,Low-Copper Diet
+Wilson Disease,High-Zinc Foods
+Wilson Disease,Leafy Greens
+Wilson Disease,Omega-3 Fatty Acids
+Wilson Disease,Probiotics
+Yellow Fever,Immune-Boosting Diet
+Yellow Fever,Vitamin C & Zinc
+Yellow Fever,Hydration Therapy
+Yellow Fever,High-Protein Foods
+Yellow Fever,Probiotic Yogurt
+Yersiniosis,Gut-Healing Diet
+Yersiniosis,Probiotics
+Yersiniosis,Electrolyte Drinks
+Yersiniosis,Bananas & Rice
+Yersiniosis,Lean Proteins
+Zika Virus,Immune-Boosting Diet
+Zika Virus,Vitamin C & Zinc
+Zika Virus,Hydration Therapy
+Zika Virus,Probiotic Yogurt
+Zika Virus,Antioxidant Foods
